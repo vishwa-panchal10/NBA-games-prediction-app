@@ -50,17 +50,5 @@ Tech Stack & Tools
 | Frontend      | HTML, CSS                   |
 | Libraries     | pandas, numpy, scikit-learn |
 
----
 
-Project Structure
-
-NBA-GAMES-APP/
-│
-├── app.py # Backend logic and ML model
-├── games.csv # Historical NBA match dataset
-│
-├── templates/
-│ └── index.html # Frontend HTML
-│
-└── static/
 └── style.css # NBA-themed CSS
