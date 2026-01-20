@@ -50,5 +50,3 @@ Tech Stack & Tools
 | Frontend      | HTML, CSS                   |
 | Libraries     | pandas, numpy, scikit-learn |
 
-
-└── style.css # NBA-themed CSS
